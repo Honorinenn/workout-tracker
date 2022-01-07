@@ -18,7 +18,9 @@ https://workout-tracker-hn.herokuapp.com/
 For the installation of this application on your local machine, copy the github repo and do a 'git clone' on your local repository. Install the node dependencies. Install and run the MongoDB database by typing npm run seeds on the command line of your local repository. Once this is done you can start the server. 
 
 ## Usage
-In the command line of your application launch the application using the command 'node server.js' or 'npm start'. In your web browser, visit the localhost:3003 which is the localhost URL I used for this application. When you are adding a new workout, make sure to click complete once you fill in everything.  
+In the command line of your application launch the application using the command 'node server.js' or 'npm start'. In your web browser, visit the localhost:3003 which is the localhost URL I used for this application. When you are adding a new workout, make sure to click complete once you fill in everything. 
+
+<img width="929" alt="wk1" src="https://user-images.githubusercontent.com/87605893/148558698-5be5d58c-f669-4212-b9a8-e224950e2cc9.png">
 
 ## License
 MIT License
