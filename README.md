@@ -24,6 +24,8 @@ In the command line of your application launch the application using the command
 
 <img width="949" alt="wk2" src="https://user-images.githubusercontent.com/87605893/148558950-b4d63b2a-2eef-4242-9508-bccf5e371922.png">
 
+<img width="949" alt="wk2" src="https://user-images.githubusercontent.com/87605893/148558950-b4d63b2a-2eef-4242-9508-bccf5e371922.png">
+
 ## License
 MIT License
 
