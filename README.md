@@ -1,6 +1,8 @@
 # workout-tracker
 
-This project is a workout tracker Application which enables the user to be able to view, create, and track daily workouts. This fitness workout app is built in consideration with the MVC standards and it takes in new exercises and uses MongoDB with Mongoose to log the user to the database. The various graph views of the workouts are then viewed in the application's dashboard.
+This project is a workout tracker Application which enables the user to be able to view, create, and track daily workouts. This fitness workout app is built in consideration with the MVC standards and it takes in new exercises and uses MongoDB with Mongoose to log the user to the database. The various graph views of the workouts are then viewed in the application's dashboard. The link below is the link to the deployed application:
+https://workout-tracker-hn.herokuapp.com/
+
 
 ![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
      
